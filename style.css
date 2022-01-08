@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+h1
+{
+    font-size: 40px;
+}
+span
+{
+    color:darkorange
+}
+section
+{
+    display:flex;
+}
+
+#id1
+{
+    width: 50%;
+    text-align:justify;
+    padding-right: 10%;
+    padding-left:5%;
+}
+#id2 img
+{
+    width: 80%;
+
+}
+.link
+{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue,pink );
+    border: 10px;
+    padding: 8px 30px;
+    margin: 2px;
+    border-radius: 5px;
+    font-size: 20;
+    font-weight: bold;
+    
+}
+
