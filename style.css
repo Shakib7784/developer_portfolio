@@ -11,7 +11,7 @@ span
 {
     color:darkorange
 }
-section
+.flexible_container
 {
     display:flex;
     margin-bottom: 100px;
@@ -79,4 +79,41 @@ section
     background-image:url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience_unit
+{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 3%;
+    text-align: justify;
+    padding-right: 1%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px violet;
+    
+   
+    
+}
+.experience
+{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+#border_left_fullstack
+{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue, pink);
+    border-image-slice: 3;
+}
+#border_left_baby
+{
+    border-left: 7px solid;
+    border-image:linear-gradient(rgb(255, 230, 0), rgb(2, 40, 54));
+    border-image-slice: 2;
+}
+footer p
+{
+    text-align: center;
 }
