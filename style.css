@@ -46,6 +46,8 @@ span
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+/* second part */
+
 .second_part
 {
     width: 50%;
@@ -80,6 +82,9 @@ span
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/* last part */
+
 .experience_unit
 {
     margin-left: 5%;
